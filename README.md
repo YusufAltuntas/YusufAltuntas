@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm Yusuf Altuntaş</h1>
-<h3 align="center">I am a student who is improving herself in the field of Data Science in Turkey.</h3>
+<h3 align="center">I am a student who is improving myself in the field of Data Science in Turkey.</h3>
 
 - 🔭 I’m currently working on **Python**
 
