@@ -1,5 +1,25 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered GIF</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0; /* İsteğe bağlı bir arka plan rengi */
+        }
+    </style>
+</head>
+<body>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Centered GIF" width="500">
+</body>
+</html>
+
 
 <h1 align="center">Hi 👋, I'm Yusuf Altuntaş</h1>
 <h3 align="center">A data scientist from Turkey</h3>
